@@ -12,7 +12,7 @@ class SplashPage extends StatelessWidget {
       seconds: 3,
       navigateAfterSeconds: new Example(),
       title: new Text('Caption',textScaleFactor: 2,),
-      image: new Image.asset("assets/cpa_logo.png"),
+      image: new Image.asset("assets/agri_logo.png"),
       photoSize: 100.0,
       backgroundColor: HexColor("#1da7d1"),
       loaderColor: HexColor("#1da7d1"),

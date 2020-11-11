@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
        // title: Center(child: Text(_title)),
-        title:  Center(child: Image.asset('assets/cpa_logo.png',height: 40,width: 80,))
+        title:  Center(child: Image.asset('assets/agri_logo.png',height: 80,width: 120,))
       ),
 
       body: Container(
