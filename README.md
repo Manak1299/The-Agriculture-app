@@ -2,12 +2,6 @@
 
 A new Flutter application.
 
-# Screenshots
-![](https://github.com/Manak1299/The-Agriculture-app/blob/master/screenshots/screen1.png?raw=true)
-![](https://github.com/Manak1299/The-Agriculture-app/blob/master/screenshots/screen2.png?raw=true)
-![](https://github.com/Manak1299/The-Agriculture-app/blob/master/screenshots/screen3.png?raw=true)
-![](https://github.com/Manak1299/The-Agriculture-app/blob/master/screenshots/screen4.png?raw=true)
-![](https://github.com/Manak1299/The-Agriculture-app/blob/master/screenshots/screen5.png?raw=true)
 ## Getting Started
 
 
