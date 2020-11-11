@@ -4,7 +4,7 @@ A new Flutter application.
 
 # Screenshots
 ![](https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png =250x)
-<img src="https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png"  width="200" height="400" />
+<img src="https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png" data-canonical-src="https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png"  width="200" height="400" />
 ## Getting Started
 
 This project is a starting point for a Flutter application.
