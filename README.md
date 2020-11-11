@@ -3,6 +3,7 @@
 A new Flutter application.
 
 # Screenshots
+![](https://github.com/Manak1299/The-Agriculture-app/blob/master/screenshots/screen1.png?raw=true)
 <img src="https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png" data-canonical-src="https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png"  width="200" height="400" />
 
 <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
