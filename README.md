@@ -3,7 +3,7 @@
 A new Flutter application.
 
 # Screenshots
-![Artboard 1@2X](https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png)
+![](https://github.com/Manak1299/The-Agriculture-app/tree/master/screenshots/screen1.png=250x)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
